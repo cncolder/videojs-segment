@@ -1,0 +1,19 @@
+{
+    "author": {
+        "name": "Colder"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "coffee-script": ">=0.7.1",
+        "video.js": "~4.6"
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    },
+    "name": "videojs-segment",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cncolder/videojs-segment"
+    },
+    "version": "0.1.0"
+}
