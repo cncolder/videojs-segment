@@ -1,6 +1,8 @@
 videojs-segment
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/cncolder/videojs-segment.svg)](https://greenkeeper.io/)
+
 Introduction
 ------------
 A video.js plugin that play segment videos, not playlist. Progressbar show the right current time, buffered percent and total duration.
