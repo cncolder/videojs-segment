@@ -5,7 +5,7 @@
     "dependencies": {},
     "devDependencies": {
         "coffee-script": ">=0.7.1",
-        "video.js": "~4.6"
+        "video.js": "~5.19.2"
     },
     "engines": {
         "node": ">=0.8.0"
